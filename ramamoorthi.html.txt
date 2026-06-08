@@ -4,6 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ramamoorthi M — Full Stack Developer</title>
+<meta property="og:title" content="Ramamoorthi M — Full Stack Developer">
+<meta property="og:description" content="Full Stack & MERN Developer building scalable web, mobile, and Web3 applications.">
+<meta property="og:image" content="https://ramamoorthi-full-stack-developer.vercel.app/assets/Ramamoorthi.jpeg">
+<meta property="og:url" content="https://ramamoorthi-full-stack-developer.vercel.app/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://ramamoorthi-full-stack-developer.vercel.app/assets/Ramamoorthi.jpeg">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -663,7 +670,7 @@
   </div>
   <div class="hero-image-wrap">
     <div class="hero-image-frame">
-      <img src="WhatsApp Image 2026-04-04 at 11.27.55 PM (1).jpeg" alt="Ramamoorthi M" class="hero-img" onerror="this.style.background='linear-gradient(135deg,#1a1a24,#6c63f5)';this.style.display='block'">
+      <img src="./assets/Ramamoorthi.jpeg" alt="Ramamoorthi M" class="hero-img" onerror="this.style.background='linear-gradient(135deg,#1a1a24,#6c63f5)';this.style.display='block'">
       <div class="hero-stats">
         <div class="num">3.7</div>
         <div class="lbl">Years Exp.</div>
